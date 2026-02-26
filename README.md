@@ -55,7 +55,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chafle&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
@@ -67,25 +67,21 @@
 ## 🔗 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/vaishnavi-chafle-357438262/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="mailto:vaishnavi.chafle24@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
-</a>
-
-<a href="https://leetcode.com/u/vaishnavi-24-2004/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/vaishnavi_chafle" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="30" width="40" />
-</a>
-
-<a href="https://medium.com/@vaishnavi.chafle24" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" height="30" width="40" />
-</a>
+  <a href="https://linkedin.com/in/vaishnavi-chafle-357438262/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vaishnavi.chafle24@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/vaishnavi-24-2004/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/vaishnavi_chafle">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@vaishnavi.chafle24">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
 
 ---
