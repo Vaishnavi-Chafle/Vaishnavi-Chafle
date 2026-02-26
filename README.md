@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0A192F&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Deep+Learning+Explorer" />
 </p>
 <h1 align="center">Hi 👋, I'm Vaishnavi Chafle</h1>
-<h3 align="center">🚀 Aspiring Data Scientist | AI Enthusiast | Python Developer</h3>
+<h3 align="center">Aspiring Data Scientist | AI Enthusiast | Python Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Vaishnavi-Chafle&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,23 +13,23 @@
 
 ## 🌟 About Me
 
-- 🎓 B.Tech Computer Engineering (2026 Graduate)
-- 💡 Passionate about **Machine Learning & Data Science**
-- 🧠 Currently mastering **DL + CrewAI + FastAPI**
-- 🏆 Building real-world projects to crack Data roles
-- 📍 India
+-  B.Tech Computer Engineering (2026 Graduate)
+-  Passionate about **Machine Learning & Data Science**
+-  Currently mastering **DL + CrewAI + FastAPI**
+-  Building real-world projects to crack Data roles
+-  India
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 👩‍💻 Languages
+### Languages
 - Python
 - SQL
 - C++
 - Basic of Java
 
-### 📊 Data & ML
+### Data & ML
 - Pandas
 - NumPy
 - Scikit-Learn
@@ -38,7 +38,7 @@
 - TensorFlow (Basics)
 - keras
 
-### 🌐 Web Basics
+### Web Basics
 - HTML
 - CSS
 - FastAPI (Learning)
