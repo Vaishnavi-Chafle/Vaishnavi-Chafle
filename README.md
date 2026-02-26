@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=0A192F&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Deep+Learning+Explorer;Future+ML+Engineer+2026" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A192F&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Deep+Learning+Explorer" />
 </p>
 <h1 align="center">Hi 👋, I'm Vaishnavi Chafle</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | AI Enthusiast | Python Developer</h3>
