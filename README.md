@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&width=500&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Future+ML+Engineer+2026" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=0A192F&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast;Machine+Learning+Explorer;Future+ML+Engineer+2026" />
 </p>
 <h1 align="center">Hi 👋, I'm Vaishnavi Chafle</h1>
 <h3 align="center">🚀 Aspiring Data Scientist | AI Enthusiast | Python Developer</h3>
@@ -58,18 +58,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chafle&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Chafle&layout=compact&theme=default" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chafle&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Chafle&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔗 Connect With Me
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/vaishnavi-chafle-357438262/" target="blank">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
 </a>
