@@ -55,15 +55,6 @@
 
 ---
 
-## GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Vaishnavi-Chafle&show_icons=true&include_all_commits=true&count_private=true&theme=default" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishnavi-Chafle&layout=compact&theme=default" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
